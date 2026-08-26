@@ -43,6 +43,4 @@ source install/setup.zsh
 ros2 run usi_angry_turtle controller_node
 ```
 
-## License
 
-Course project materials — license TBD.
